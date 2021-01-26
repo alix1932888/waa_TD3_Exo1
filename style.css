@@ -1,0 +1,21 @@
+.highlight {
+  background-color:#ee3;
+}
+
+div {
+  background-color: #fff0f5;
+  border: 4px solid #ee73b1;
+
+  width:400px;
+  box-sizing: border-box;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+p,h1{
+    text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
